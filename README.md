@@ -29,11 +29,21 @@ Fullstack Software Developer | CS Student | Explorer of innovative projects 🚀
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tatcheff03&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tatcheff03&theme=tokyo-night" />
+</p>
+---
+
 ## 🤝 Open to Collaborations
 I’m looking to collaborate on:
 - Java backend projects  
 - Python / FastAPI apps  
-- Machine Learning experiments  
+- Projects associated with AI and ML
 - Fullstack web development  
 
 ---

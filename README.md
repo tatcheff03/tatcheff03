@@ -37,10 +37,6 @@ I’m looking to collaborate on:
 
 <div align="center">
 
-![Angel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatcheff03&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tatcheff03&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=tatcheff03&theme=tokyonight&hide_border=true)
 
 </div>

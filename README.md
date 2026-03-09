@@ -1,9 +1,10 @@
-### Hi there 👋, my name is Angel Tatcheff
+# Hi there 👋, I'm Angel Tatcheff
 
-#### I am a Fullstack Software Developer & Computer Science student  
-Exploring innovative projects and building practical solutions 🚀
+Fullstack Software Developer | CS Student | Explorer of innovative projects 🚀
 
-## Skills
+---
+
+## 💻 Skills
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -26,6 +27,8 @@ Exploring innovative projects and building practical solutions 🚀
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
+---
+
 ## 🤝 Open to Collaborations
 I’m looking to collaborate on:
 - Java backend projects  
@@ -33,22 +36,15 @@ I’m looking to collaborate on:
 - Machine Learning experiments  
 - Fullstack web development  
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=tatcheff03&theme=tokyonight&hide_border=true)
-
-</div>
+---
 
 ## 🌱 Current Focus
 - 🔭 Building a Python Finance Web Application  
 - 🌱 Learning Python & FastAPI  
 - 🚀 Improving backend architecture & cloud deployment skills  
 
-## 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tatcheff03&theme=tokyo-night&hide_border=true)
+---
 
-## Find me here
+## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angeltatcheff/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tatcheff03/)

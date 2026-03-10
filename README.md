@@ -37,7 +37,6 @@ Fullstack Software Developer | CS Student | Explorer of innovative projects 🚀
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tatcheff03&theme=tokyo-night" />
 </p>
----
 
 ## 🤝 Open to Collaborations
 I’m looking to collaborate on:
